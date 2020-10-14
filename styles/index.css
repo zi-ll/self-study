@@ -1,0 +1,19 @@
+img{
+    height:120px;
+    border-radius:15px;
+
+}
+.banner{
+    font-style: oblique;
+    color: blueviolet;
+}
+#logo {
+    border: 20px;
+    height:10px;
+    width:15px
+
+}
+#footer{
+    font-size: large;
+    color: chartreuse;
+}
